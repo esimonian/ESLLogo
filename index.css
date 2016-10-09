@@ -29,6 +29,7 @@ a:hover {
   position: absolute;
   top: 0;
   height: 50px;
+  text-align: center;
 }
 
 #display-panel {
@@ -365,8 +366,8 @@ a:hover {
   a.forkme { display: none; }
   #topbar-altlinks { display: inline-block; }
 
-  #topbar h1 { font-size: 14pt; }
-  #topbar { height: 28px; }
+  #topbar h1 { font-size: 16pt; }
+  #topbar { height: 30px; }
   #display-panel { top: 28px; }
 }
 
