@@ -22,6 +22,10 @@ a:hover {
   text-decoration: underline;
 }
 
+ul li {
+  list-style: none;
+}
+
 /* Overall Page Structure */
 
 
@@ -110,7 +114,7 @@ a:hover {
 /* Side Bars */
 
 #sidebar-header ul { margin: 5px 10px; padding: 0; }
-#sidebar-header ul li { list-decoration: none; }
+#sidebar-header ul li { list-style: none; }
 
 #sidebar #reference,
 #sidebar #examples,
