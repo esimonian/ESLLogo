@@ -10,6 +10,16 @@ code { font-family: monospace; }
 
 body {
   background: linear-gradient(to bottom,  #6fcedf 0%,#021d45 100%) fixed;
+  color: white;
+}
+
+a  {
+  color: #021d45;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 /* Overall Page Structure */
@@ -34,6 +44,11 @@ body {
   bottom: 0;
   height: 65px;
 }
+
+#input-panel {
+  color: #808080;
+}
+
 .multi #input-panel {
   height: 150px;
 }
