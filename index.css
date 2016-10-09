@@ -9,13 +9,7 @@ dt, dd { font-size: 8pt; }
 code { font-family: monospace; }
 
 body {
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6fcedf+0,021d45+100 */
-background: #6fcedf; /* Old browsers */
-background: -moz-linear-gradient(top,  #6fcedf 0%, #021d45 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top,  #6fcedf 0%,#021d45 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom,  #6fcedf 0%,#021d45 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6fcedf', endColorstr='#021d45',GradientType=0 ); /* IE6-9 */
-
+  background: linear-gradient(to bottom,  #6fcedf 0%,#021d45 100%) fixed;
 }
 
 /* Overall Page Structure */
